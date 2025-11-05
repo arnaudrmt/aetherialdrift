@@ -1,0 +1,11 @@
+name: AetherialDrift
+main: fr.arnaud.aetherialdrift.AetherialDrift
+version: 1.0
+author: Arnaud
+description: A dynamic arena minigame with shifting islands.
+api-version: 1.13
+commands:
+  drift:
+    description: Main command for the Aetherial Drift minigame.
+    usage: /<command> [join|leave]
+    aliases: [ ad ]
